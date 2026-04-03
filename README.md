@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Sou o Jose Wilson, sou programador de front end e atualmente estou criando projrtos com: 
+Sou o Jose Wilson, sou programador de front end e atualmente estou criando projetos com: 
 <br/>
 <br/>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
